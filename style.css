@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+
+
+body{
+    background-image: url(Images/Coffee\ bean.webp);
+    font-family: 'Mochiy Pop One', sans-serif;
+    padding: 20px;
+}
+h1,h2,p{
+    text-align: center;
+}
+
+
+h1{
+    font-family:  'Ultra', serif;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px ;
+}
+
+h2{
+    font-size: 30px;
+    font-family:  'Ultra', serif;
+}
+.year{
+  font-family:  'Ultra', serif;
+  font-style: italic;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+.menu{
+    width: 80%; 
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.item p{
+display: inline-block;
+margin-top: 5px;
+margin-bottom: 5px;
+font-size: 18px;
+}
+
+.flavor, .dessert{
+    text-align: left;
+    width: 75%;
+}
+
+.menu-price{
+    text-align: right;
+    width: 25%;
+}
+
+.bottom-line{
+    margin-top: 25px;
+}
+
+a{
+    color: black;
+}
+.address{
+    margin-bottom: 5px;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: brown;
+}
